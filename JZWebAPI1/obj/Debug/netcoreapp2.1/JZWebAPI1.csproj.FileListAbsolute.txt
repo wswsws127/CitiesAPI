@@ -1,0 +1,14 @@
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\bin\Debug\netcoreapp2.1\JZWebAPI1.deps.json
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\bin\Debug\netcoreapp2.1\JZWebAPI1.runtimeconfig.json
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\bin\Debug\netcoreapp2.1\JZWebAPI1.runtimeconfig.dev.json
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\bin\Debug\netcoreapp2.1\JZWebAPI1.dll
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\bin\Debug\netcoreapp2.1\JZWebAPI1.pdb
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.csprojAssemblyReference.cache
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.csproj.CoreCompileInputs.cache
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.RazorAssemblyInfo.cache
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.RazorAssemblyInfo.cs
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.AssemblyInfoInputs.cache
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.AssemblyInfo.cs
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.RazorTargetAssemblyInfo.cache
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.dll
+E:\ASPApplication\JZWebAPI1\JZWebAPI1\obj\Debug\netcoreapp2.1\JZWebAPI1.pdb
